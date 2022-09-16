@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="giphy.webp" width="500" height="300"/>
+  <img src="giphy.webp" width="360" height="250"/>
 </div>
 
 # Hi There!
