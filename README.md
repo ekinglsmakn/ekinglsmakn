@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ekin-gulsum-akin07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ekin-gulsum-akin07/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19055500/ekin-g%c3%bcls%c3%bcm-ak%c4%b1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19055500/ekin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19055500/ekin-g%c3%bcls%c3%bcm-ak%c4%b1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19055500/ekin?tab=profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
