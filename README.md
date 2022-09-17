@@ -8,8 +8,8 @@
 #### 📍 Turkiye/Ankara
 #### :computer: I'm currently working/learning on java Spring & JSF
 #### 📫 How to reach me :arrow_right: ekin.gulsum.akin@gmail.com
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="250" height="160"> &emsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" width="250" height="200"> <br/><br/><br/>
-&emsp;&emsp; <img src="hibernate.png" width="150" height="150"> &emsp;&emsp;&emsp; <img src="jsf.webp" width="220" height="120"> &emsp;&emsp; <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" width="200" height="120">
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="100" height="80"> &emsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" width="100" height="80"> <br/><br/><br/>
+&emsp;&emsp; <img src="hibernate.png" width="70" height="70"> &emsp;&emsp;&emsp; <img src="jsf.webp" width="100" height="60"> &emsp;&emsp; 
 
 
 <h3 align="left">Connect with me:</h3>
