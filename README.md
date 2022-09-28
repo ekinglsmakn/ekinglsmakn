@@ -9,7 +9,7 @@
 
 ---
 #### 📍 Turkiye/Ankara
-#### :computer: I'm currently working/learning on java Spring & JSF
+#### :computer: I'm currently working/learning on java Spring & JSF & Thymeleaf
 #### 📫 How to reach me :arrow_right: ekin.gulsum.akin@gmail.com
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="100" height="80"> &emsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" width="100" height="80"> <br/>
 
