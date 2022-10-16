@@ -10,11 +10,10 @@
 ---
 #### 📍 Turkiye/Ankara
 #### :computer: I'm currently working/learning on java Spring & JSF & Thymeleaf
-#### 📫 How to reach me :arrow_right: ekin.gulsum.akin@gmail.com
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" width="100" height="80"> &emsp;<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" width="100" height="80"> <br/>
+#### 📫 How to reach me :arrow_right: ekin.gulsum.akin@gmail.com <br><br>
 
 ---
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ekin-gulsum-akin07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ekin-gulsum-akin07/" height="30" width="40" /></a>
