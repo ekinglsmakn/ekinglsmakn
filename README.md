@@ -9,7 +9,7 @@
 
 ---
 #### 📍 Turkiye/Ankara
-#### :computer: I'm currently working/learning on java Spring & JSF & Thymeleaf
+#### :computer: I'm currently learning on java Spring & JSF & Thymeleaf
 #### 📫 How to reach me :arrow_right: ekin.gulsum.akin@gmail.com <br><br>
 
 ---
